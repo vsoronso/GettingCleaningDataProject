@@ -18,7 +18,7 @@ Variables included in the tidy dataset are: <ul>
 <li>variables: set of feature names to include in final data set.
 <li>All Variables: set of feature names to include in tidy data set + "subject" and "activity" codes corresponding to each value.
 <li>SubsetDataset: subsetting final dataset with only features needed for the tidy dataset.
-<li>SubsetDataset2: data set displaying the means of each activity for each subject.
+<li>SubsetDataset2: data set displaying the means of each activity for each subject. <\ul>
 >
 >The data used in this assignment was collected from accelerometers from the Samsung Galaxy S smartphone. There are 10 files used for this assignment <ul>
 <li>
