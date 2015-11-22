@@ -1,7 +1,7 @@
 # GettingCleaningDataProject - Code Book
 
-Variables included in the tidy dataset are:
->fileUrl: The url at which the raw data for the project is stored
+Variables included in the tidy dataset are: <ul>
+<li>fileUrl: The url at which the raw data for the project is stored.
 *ActvTest: table that stores the raw Test codes
 >ActvTrain: table that stores the raw Train codes
 SubTest: table that stores the raw testing subject codes
